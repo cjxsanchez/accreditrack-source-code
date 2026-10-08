@@ -1,0 +1,8 @@
+[2025-10-23 06:51:46] [warning] Failed login attempt for: admin
+[2025-10-23 06:51:54] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 08:17:03] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 08:37:22] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 08:39:15] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 08:59:31] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 09:06:49] [info] User logged in: admin | {"user_id":1}
+[2025-10-23 09:39:14] [info] User logged in: admin | {"user_id":1}

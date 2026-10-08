@@ -1,0 +1,33 @@
+[2025-11-21 09:47:50] [info] Database connected successfully
+[2025-11-21 09:47:50] [info] Database connected successfully
+[2025-11-21 09:48:01] [info] Database connected successfully
+[2025-11-21 09:48:05] [info] Database connected successfully
+[2025-11-21 09:48:26] [info] Database connected successfully
+[2025-11-21 09:48:26] [error] Error fetching documents: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.parameter_order' in 'where clause'
+[2025-11-21 09:48:28] [info] Database connected successfully
+[2025-11-21 09:48:28] [error] Error fetching documents: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.parameter_order' in 'where clause'
+[2025-11-21 12:19:38] [info] Database connected successfully
+[2025-11-21 12:19:38] [info] Database connected successfully
+[2025-11-21 12:19:45] [info] Database connected successfully
+[2025-11-21 12:19:47] [info] Database connected successfully
+[2025-11-21 12:19:48] [info] Database connected successfully
+[2025-11-21 12:19:50] [info] Database connected successfully
+[2025-11-21 12:19:51] [info] Database connected successfully
+[2025-11-21 12:19:53] [info] Database connected successfully
+[2025-11-21 12:19:53] [info] Database connected successfully
+[2025-11-21 12:19:55] [info] Database connected successfully
+[2025-11-21 12:19:56] [info] Database connected successfully
+[2025-11-21 12:19:56] [info] Database connected successfully
+[2025-11-21 12:20:09] [info] Database connected successfully
+[2025-11-21 12:20:15] [info] Database connected successfully
+[2025-11-21 12:20:17] [info] Database connected successfully
+[2025-11-21 12:20:53] [info] Database connected successfully
+[2025-11-21 12:21:01] [info] Database connected successfully
+[2025-11-21 12:21:06] [info] Database connected successfully
+[2025-11-21 12:24:34] [info] Database connected successfully
+[2025-11-21 12:24:34] [info] Database connected successfully
+[2025-11-21 12:27:13] [info] Database connected successfully
+[2025-11-21 12:27:37] [info] Database connected successfully
+[2025-11-21 12:27:37] [info] Database connected successfully
+[2025-11-21 12:27:55] [info] Database connected successfully
+[2025-11-21 12:27:55] [info] Database connected successfully
